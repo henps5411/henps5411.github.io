@@ -857,6 +857,6 @@ async function main() {
 
     clear_log();
     // path to your script that will use the exploit
-    import('./org.bdj.external');
+    import('./lapse.mjs');
 }
 main();
